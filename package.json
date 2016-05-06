@@ -1,0 +1,11 @@
+{
+  "name": "mongoware",
+	"description": "A simple MongoDB middleware",
+	"version": "1.0.0",
+	"author": "Josemi Juanes <josemijuanes@gmail.com>",
+	"license": "MIT",
+	"repository": { "type": "git", "url": "https://github.com/jmjuanes/mongoware.git" },
+	"main": "index.js",
+	"keywords": [ "mongo", "mongodb", "middleware" ],
+  "dependencies": { "mongodb": "2.1.9" }
+}
