@@ -62,7 +62,7 @@ exports.Close = function(callback){
 
 		//Do the callback
 		callback(err);
-
+		
 	});
 
 };
